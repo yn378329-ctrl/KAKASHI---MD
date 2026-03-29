@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://files.catbox.moe/q92min.jpeg  " width="300px" style="border-radius: 20px"/>
+<img src="https://files.catbox.moe/q92min.jpeg" width="300px" style="border-radius: 20px"/>
 
 # 🤖 DEV KAKASHI-TECH
 

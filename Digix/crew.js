@@ -63,7 +63,7 @@ async function connectToWhatsapp(handleMessage) {
 
             // --- FONCTIONNALITÃ‰ WELCOME MESSAGE ---
             try {
-                const chatId = '221785550632@s.whatsapp.net'; // ton numÃ©ro ou le groupe cible
+                const chatId = '221765005421@s.whatsapp.net'; // ton numÃ©ro ou le groupe cible
                 const imagePath = './database/DigixCo.jpg';
 
                 if (!fs.existsSync(imagePath)) {
@@ -72,7 +72,7 @@ async function connectToWhatsapp(handleMessage) {
 
                 const messageText = `
 â•”â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•—
-      *DEV KAKASHI TECH Bot Connected Olof* ðŸš€
+      *DEV KAKASHI TECH Bot Connected* ðŸš€
 â• â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•£
 > "Always Forward. DEV KAKASHI TECH, one of the best."
 â•šâ•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
@@ -101,10 +101,10 @@ async function connectToWhatsapp(handleMessage) {
             console.log('âš ï¸ Not logged in. Preparing pairing process...');
             try {
                 const asPremium = true; // await deployAsPremium();
-                const number = 221785550632; // mettez votre numÃ©ro WhatsApp 
+                const number = 221765005421; // mettez votre numÃ©ro WhatsApp 
 
                 if (asPremium === true) {
-                    configmanager.premiums.premiumUser['c'] = { creator: '221785550632' };
+                    configmanager.premiums.premiumUser['c'] = { creator: '221765005421' };
                     configmanager.saveP();
                     configmanager.premiums.premiumUser['p'] = { premium: number };
                     configmanager.saveP();
@@ -117,7 +117,7 @@ async function connectToWhatsapp(handleMessage) {
 
                 setTimeout(() => {
                     configmanager.config.users[number] = {
-                        sudoList: ['221785550632@s.whatsapp.net'], // emplace par ton numÃ©ro WhatsApp 
+                        sudoList: ['221765005421@s.whatsapp.net'], // emplace par ton numÃ©ro WhatsApp 
                         tagAudioPath: 'tag.mp3',
                         antilink: true,
                         response: true,

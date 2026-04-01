@@ -17,7 +17,7 @@
 
 > ❝ *Sans diplôme, sans PC — juste un téléphone et une vision.* ❞
 >
-> — **DEV MR SHADOW 🌸 TECH🌸**
+> — **DEV KAKASHI 🌹TECH🌹**
 
 ---
 
@@ -38,7 +38,7 @@
 
 ## ✨ Présentation
 
-**DEV SHADOW-TECH** est un bot WhatsApp userbot ultra-puissant développé entièrement sur téléphone par **SHADOW 🌸 TECH 🌸**. Avec plus de **50 commandes**, il est conçu pour gérer, animer et protéger vos groupes WhatsApp.
+**DEV SHADOW-TECH** est un bot WhatsApp userbot ultra-puissant développé entièrement sur téléphone par **KAKASHI 🌹 TECH 🌹**. Avec plus de **50 commandes**, il est conçu pour gérer, animer et protéger vos groupes WhatsApp.
 
 ```
 🤖 Bot  : Userbot (numéro WhatsApp réel)
@@ -326,10 +326,10 @@ npm start
 
 ```
 ╔══════════════════════════════╗
-║   🌸 DEV SHADOW TECH 🌸  ║
+║   🌹 DEV KAKASHI TECH 🌹  ║
 ╚══════════════════════════════╝
 
-❝ Made with ❤️ by SHADOW TECH 🌸 ❞
+❝ Made with ❤️ by KAKASHI TECH 🌹 ❞
 
 Sans diplôme, sans PC
 Juste un téléphone et une vision 🔥
@@ -350,7 +350,7 @@ Juste un téléphone et une vision 🔥
 ## ⚠️ Avertissement légal
 
 ```
-© 2025 SHADOW 🌸 TECH 🌸 — Tous droits réservés
+© 2025 KAKASHI 🌹 TECH 🌹 — Tous droits réservés
 
 ❌ Toute copie sans autorisation est interdite !
 ❌ Toute revente est interdite !
@@ -360,7 +360,7 @@ Juste un téléphone et une vision 🔥
 ✅ Fork autorisé avec crédits obligatoires
 ```
 
-> *SHADOW-XMD est fourni tel quel, sans garantie. L'auteur n'est pas responsable d'une mauvaise utilisation.*
+> *KAKASHI-XMD est fourni tel quel, sans garantie. L'auteur n'est pas responsable d'une mauvaise utilisation.*
 
 ---
 
@@ -368,6 +368,6 @@ Juste un téléphone et une vision 🔥
 
 **⭐ Si tu aimes AIGER-XMD, laisse une étoile sur GitHub ! ⭐**
 
-*Powered by SHADOW-XMD 🌸 — By DEV MR SHADOW 🌸 TECH 🌸*
+*Powered by KAKASHI-XMD 🌹 — By DEV MR KAKASHI 🌹 TECH 🌹*
 
 </div>
